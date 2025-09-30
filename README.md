@@ -19,15 +19,13 @@ C (foco principal para fortalecer a base).
 
 [Opcional] Outras linguagens poderão ser adicionadas futuramente (ex.: Java, Python).
 
+Organização  
+Os arquivos seguem a numeração oficial dos exercícios no BeeCrowd
+
 Progresso
 
-Exercícios Iniciante
-
-Estruturas Condicionais
-
-Laços de Repetição
-
-Estruturas de Dados (em andamento)
+Exercicios do 1001 ate 1021 concluídos
+Continuação em andamento
 
 Referências
 
